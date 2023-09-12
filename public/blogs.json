@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "coverImg": "https://example.com/cover1.jpg",
+      "authorImg": "https://example.com/author1.jpg",
+      "authorName": "John Doe",
+      "postDate": "2023-09-12",
+      "readingTime": 10,
+      "title": "The Art of Programming",
+      "hashtags": ["programming", "coding", "tech"]
+    },
+    {
+      "id": 2,
+      "coverImg": "https://example.com/cover2.jpg",
+      "authorImg": "https://example.com/author2.jpg",
+      "authorName": "Jane Smith",
+      "postDate": "2023-09-11",
+      "readingTime": 8,
+      "title": "Exploring the Cosmos",
+      "hashtags": ["space", "science", "cosmology"]
+    },
+    {
+      "id": 3,
+      "coverImg": "https://example.com/cover3.jpg",
+      "authorImg": "https://example.com/author3.jpg",
+      "authorName": "Alice Johnson",
+      "postDate": "2023-09-10",
+      "readingTime": 12,
+      "title": "Healthy Eating Habits",
+      "hashtags": ["health", "nutrition", "diet"]
+    },
+    {
+      "id": 4,
+      "coverImg": "https://example.com/cover4.jpg",
+      "authorImg": "https://example.com/author4.jpg",
+      "authorName": "David Wilson",
+      "postDate": "2023-09-09",
+      "readingTime": 7,
+      "title": "Traveling on a Budget",
+      "hashtags": ["travel", "budget", "adventure"]
+    },
+    {
+      "id": 5,
+      "coverImg": "https://example.com/cover5.jpg",
+      "authorImg": "https://example.com/author5.jpg",
+      "authorName": "Emily Brown",
+      "postDate": "2023-09-08",
+      "readingTime": 9,
+      "title": "The Art of Photography",
+      "hashtags": ["photography", "art", "creativity"]
+    }
+  ]
+  
