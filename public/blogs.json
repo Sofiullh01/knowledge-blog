@@ -1,53 +1,54 @@
 [
-    {
-      "id": 1,
-      "coverImg": "https://example.com/cover1.jpg",
-      "authorImg": "https://example.com/author1.jpg",
-      "authorName": "John Doe",
-      "postDate": "2023-09-12",
-      "readingTime": 10,
-      "title": "The Art of Programming",
-      "hashtags": ["programming", "coding", "tech"]
-    },
-    {
-      "id": 2,
-      "coverImg": "https://example.com/cover2.jpg",
-      "authorImg": "https://example.com/author2.jpg",
-      "authorName": "Jane Smith",
-      "postDate": "2023-09-11",
-      "readingTime": 8,
-      "title": "Exploring the Cosmos",
-      "hashtags": ["space", "science", "cosmology"]
-    },
-    {
-      "id": 3,
-      "coverImg": "https://example.com/cover3.jpg",
-      "authorImg": "https://example.com/author3.jpg",
-      "authorName": "Alice Johnson",
-      "postDate": "2023-09-10",
-      "readingTime": 12,
-      "title": "Healthy Eating Habits",
-      "hashtags": ["health", "nutrition", "diet"]
-    },
-    {
-      "id": 4,
-      "coverImg": "https://example.com/cover4.jpg",
-      "authorImg": "https://example.com/author4.jpg",
-      "authorName": "David Wilson",
-      "postDate": "2023-09-09",
-      "readingTime": 7,
-      "title": "Traveling on a Budget",
-      "hashtags": ["travel", "budget", "adventure"]
-    },
-    {
-      "id": 5,
-      "coverImg": "https://example.com/cover5.jpg",
-      "authorImg": "https://example.com/author5.jpg",
-      "authorName": "Emily Brown",
-      "postDate": "2023-09-08",
-      "readingTime": 9,
-      "title": "The Art of Photography",
-      "hashtags": ["photography", "art", "creativity"]
-    }
-  ]
+  {
+    "id": 1,
+    "coverImg": "https://i.ibb.co/2Sbw9B5/flat-lay-keyboard-headphones-desktop.jpg",
+    "authorImg": "https://example.com/author1.jpg",
+    "authorName": "John Doe",
+    "postDate": "2023-09-12 (6 Days ago)",
+    "readingTime": 10,
+    "title": "The Art of Programming: Mastering Coding Skills for Success",
+    "hashtags": ["programming", "coding", "tech"]
+  },
+  {
+    "id": 2,
+    "coverImg": "https://i.ibb.co/sssH8CK/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+    "authorImg": "https://example.com/author2.jpg",
+    "authorName": "Jane Smith",
+    "postDate": "2023-09-11 (2 Days ago)",
+    "readingTime": 8,
+    "title": "Exploring the Cosmos: A Journey into Space and the Science of Cosmology",
+    "hashtags": ["space", "science", "cosmology"]
+  },
+  {
+    "id": 3,
+    "coverImg": "https://i.ibb.co/q1K5srD/tingey-injury-law-firm-DZpc4-UY8-Zt-Y-unsplash.jpg",
+    "authorImg": "https://example.com/author3.jpg",
+    "authorName": "Alice Johnson",
+    "postDate": "2023-09-10 (4 Days ago)",
+    "readingTime": 12,
+    "title": "Healthy Eating Habits: Tips for Nutritious Diet and Lifestyle Choices",
+    "hashtags": ["health", "nutrition", "diet"]
+  },
+  {
+    "id": 4,
+    "coverImg": "https://i.ibb.co/C9wJv9j/susan-q-yin-2-JIvbo-GLeho-unsplash.jpg",
+    "authorImg": "https://example.com/author4.jpg",
+    "authorName": "David Wilson",
+    "postDate": "2023-09-09 (4 Days ago)",
+    "readingTime": 7,
+    "title": "Traveling on a Budget: How to Have Adventurous Experiences Without Breaking the Bank",
+    "hashtags": ["travel", "budget", "adventure"]
+  },
+  {
+    "id": 5,
+    "coverImg": "https://i.ibb.co/Qf2dpbQ/aaron-burden-TNl-Hf4m4gp-I-unsplash.jpg",
+    "authorImg": "https://example.com/author5.jpg",
+    "authorName": "Emily Brown",
+    "postDate": "2023-09-08 (1 Days ago)",
+    "readingTime": 9,
+    "title": "The Art of Photography: Unlocking Your Creative Potential Through Visual Artistry",
+    "hashtags": ["photography", "art", "creativity"]
+  }
+]
+
   
